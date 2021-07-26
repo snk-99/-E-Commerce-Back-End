@@ -17,7 +17,9 @@
   ## Installation:
   The user should clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run mysql -u root -p and enter password from .env file. Then source the schema.sql. To seed the file run npm run seed. Finally to connect to the server run npm start.
   ## Usage:
-  
+
+<img width="1440" alt="postman" src="https://user-images.githubusercontent.com/81891066/127053526-e7f89976-9a92-4cba-9f58-4a7f18020436.png">
+
   ## Test
   NO TEST  
   ## Questions
